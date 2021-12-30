@@ -1,0 +1,7 @@
+To create an virtual environtment in the python the command is 
+python -m venv <name>
+for example:
+python -m venv virtual 
+
+the command to activate the virtual enviroment
+source virtual/Scripts/activate
